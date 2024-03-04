@@ -11,7 +11,7 @@ Made by [maxontech](https://twitter.com/max_on_tech)
 ## Table of contents
 
 - [Description](#description)
-- [YouTube Tutorial](#youtube-tutorial)
+- [YouTube Videos](#youtube-videos)
 - [Installation](#installation)
 - [Controls](#controls)
 - [Libraries](#libraries)
