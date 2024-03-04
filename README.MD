@@ -1,4 +1,4 @@
-# NEAT Chrome Dino Game
+# Car Learns to Drive "DriveAI" using NEAT
 
 ![Preview](preview.gif)
 <br>
