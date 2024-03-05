@@ -4,7 +4,14 @@
 <br>
 <br>
 
-**A.I. Learns to Drive** built in **Python** using **Pygame** and **NEAT Algorithm**! 🏎️
+##  **A.I. Learns to Drive** built in **Python** using **Pygame** and **NEAT Algorithm**! 🏎️
+
+**Show support:**
+<br>
+Star 🌟 the Project: ![GitHub stars](https://img.shields.io/github/stars/maxontech/DriveAI.svg?style=social&label=Star)
+<br>
+Follow 🤝 on GitHub: ![GitHub followers](https://img.shields.io/github/followers/maxontech.svg?style=social&label=Follow)
+<br>
 
 Made by [maxontech](https://twitter.com/max_on_tech)
 
