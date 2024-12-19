@@ -8,12 +8,12 @@
 
 **Show support:**
 <br>
-Star 🌟 the Project: ![GitHub stars](https://img.shields.io/github/stars/maxontech/DriveAI.svg?style=social&label=Star)
+Star 🌟 the Project: ![GitHub stars](https://img.shields.io/github/stars/maxrohowsky/DriveAI.svg?style=social&label=Star)
 <br>
-Follow 🤝 on GitHub: ![GitHub followers](https://img.shields.io/github/followers/maxontech.svg?style=social&label=Follow)
+Follow 🤝 on GitHub: ![GitHub followers](https://img.shields.io/github/followers/maxrohowsky.svg?style=social&label=Follow)
 <br>
 
-Made by [maxontech](https://twitter.com/max_on_tech)
+Made by [maxrohowsky](https://twitter.com/maxrohowsky)
 
 ## Table of contents
 
@@ -73,4 +73,4 @@ Afterwards, the interpreter will be set to the virtual environment, and you can 
 
 ## Contact
 
-Feel free to reach out to me [on Twitter](https://twitter.com/max_on_tech) if you have any questions or feedback! Hope you find this useful!
+Feel free to reach out to me [on Twitter](https://twitter.com/maxrohowsky) if you have any questions or feedback! Hope you find this useful!
